@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MJA Offline Messenger</string>
+    <string name="app_name_fa">MJA</string>
+    <string name="tagline">Chat Without Internet.</string>
+    <string name="tagline_fa">Private. Local. Secure.</string>
+</resources>

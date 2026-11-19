@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- MJA mark inside the adaptive-icon safe zone (72dp centered) -->
+    <path
+        android:pathData="M32,72 L41.5,40 L54,58 L66.5,40 L76,72"
+        android:strokeWidth="6.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeColor="#D7DBE2">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:type="linear"
+                android:startX="28"
+                android:startY="76"
+                android:endX="80"
+                android:endY="36"
+                android:startColor="#F4F5F7"
+                android:endColor="#8C93A1" />
+        </aapt:attr>
+    </path>
+</vector>
