@@ -1,0 +1,46 @@
+﻿net/LocalNet.kt:164:62 None of the following candidates is applicable:
+net/LocalNet.kt:164:68 Unresolved reference 'it'.
+net/LocalNet.kt:164:91 Unresolved reference 'it'.
+net/LocalNet.kt:165:27 Unresolved reference 'firstOrNull' on receiver of type 'Enumeration<InetAddress!>'.
+net/LocalNet.kt:165:41 Unresolved reference 'it'.
+net/LocalNet.kt:165:64 Unresolved reference 'it'.
+net/LocalNet.kt:342:25 Unresolved reference 'stop' on receiver of type 'WifiManager.LocalOnlyHotspotReservation'.
+net/LocalNet.kt:342:9 Cannot infer type for type parameter 'R'. Specify it explicitly.
+screens/AboutScreen.kt:52:36 Argument type mismatch: actual type is 'Int', but 'Dp' was expected.
+screens/ConnectedDevicesScreen.kt:133:56 Unresolved reference 'timeLabel'.
+screens/CreateGroupScreen.kt:124:55 None of the following candidates is applicable:
+screens/CreateGroupScreen.kt:126:33 No parameter with name 'uncheckedBorderColor' found.
+screens/GroupChatScreen.kt:188:52 Argument type mismatch: actual type is 'String?', but 'ComposableFunction0<Unit>?' was 
+screens/GroupInfoScreen.kt:252:63 None of the following candidates is applicable:
+screens/GroupInfoScreen.kt:252:95 No parameter with name 'uncheckedBorderColor' found.
+screens/LoginScreen.kt:45:24 Argument type mismatch: actual type is 'Int', but 'Dp' was expected.
+screens/NotificationSettingsScreen.kt:55:44 Argument type mismatch: actual type is 'Int', but 'Dp' was expected.
+screens/NotificationsScreen.kt:164:53 Unresolved reference 'timestamp' on receiver of type 'NotificationItem'.
+screens/PrivateChatScreen.kt:68:23 Unresolved reference 'firstOrNull' on receiver of type 'StateFlow<List<User>>'.
+screens/PrivateChatScreen.kt:68:37 Unresolved reference 'it'.
+screens/SettingsScreen.kt:236:41 'if' must have both main and 'else' branches when used as an expression.
+screens/SettingsScreen.kt:236:85 Syntax error: Unexpected tokens (use ';' to separate expressions on the same line).
+screens/VideoCallScreen.kt:230:17 No value passed for parameter 'onClick'.
+screens/VideoCallScreen.kt:232:29 'if' must have both main and 'else' branches when used as an expression.
+screens/VideoCallScreen.kt:232:53 Syntax error: Expecting ')'.
+screens/VideoCallScreen.kt:232:55 Syntax error: Unexpected tokens (use ';' to separate expressions on the same line).
+screens/VideoCallScreen.kt:233:21 Unresolved reference 'active'.
+screens/VideoCallScreen.kt:233:39 Syntax error: Unexpected tokens (use ';' to separate expressions on the same line).
+screens/VideoCallScreen.kt:234:21 Unresolved reference 'enabled'.
+screens/VideoCallScreen.kt:234:51 Syntax error: Unexpected tokens (use ';' to separate expressions on the same line).
+screens/VideoCallScreen.kt:235:17 Syntax error: Expecting an element.
+screens/VideoPlayerScreen.kt:192:21 No value passed for parameter 'onClick'.
+screens/VideoPlayerScreen.kt:194:33 'if' must have both main and 'else' branches when used as an expression.
+screens/VideoPlayerScreen.kt:194:53 Syntax error: Expecting ')'.
+screens/VideoPlayerScreen.kt:194:55 Syntax error: Unexpected tokens (use ';' to separate expressions on the same line).
+screens/VideoPlayerScreen.kt:195:25 Unresolved reference 'active'.
+screens/VideoPlayerScreen.kt:195:42 Syntax error: Unexpected tokens (use ';' to separate expressions on the same line).
+screens/VideoPlayerScreen.kt:196:21 Syntax error: Expecting an element.
+screens/WelcomeScreen.kt:42:24 Argument type mismatch: actual type is 'Int', but 'Dp' was expected.
+ui/components/Chat.kt:171:31 Argument type mismatch: actual type is 'Alignment', but 'Alignment.Horizontal' was expected.
+ui/components/Icons.kt:124:63 None of the following candidates is applicable:
+ui/components/Insets.kt:14:14 Functions which invoke @Composable functions must be marked with the @Composable annotation
+ui/components/Insets.kt:16:43 @Composable invocations can only happen from the context of a @Composable function
+ui/components/Surfaces.kt:158:5 None of the following candidates is applicable:
+ui/components/Surfaces.kt:163:9 No parameter with name 'brush' found.
+ui/components/Surfaces.kt:406:37 Argument type mismatch: actual type is 'Dp', but 'Float' was expected.

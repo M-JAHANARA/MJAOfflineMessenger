@@ -1,0 +1,7 @@
+com.mja.messenger.app-updated_navigation_xml-0 C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\build\generated\updated_navigation_xml\release
+com.mja.messenger.app-packageReleaseResources-1 C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.mja.messenger.app-packageReleaseResources-2 C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.mja.messenger.app-release-3 C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.mja.messenger.app-main-4 C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\res
+com.mja.messenger.app-release-5 C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\release\res
+gradleHome-0 C:\Users\Persia system\.gradle

@@ -154,13 +154,13 @@ fun MjaWordmark(
     modifier: Modifier = Modifier,
     style: androidx.compose.ui.text.TextStyle = MaterialTheme.typography.displaySmall,
 ) {
-    val brush = Brush.horizontalGradient(MjaSilverGradient)
+    val brush = MjaSilverGradient.first()
     Text(
         text = text,
         style = style,
         fontWeight = FontWeight.Bold,
+        color = brush,
         modifier = modifier,
-        brush = brush,
     )
 }
 
@@ -403,7 +403,7 @@ fun SkeletonList(
                     SkeletonBar(width = 0.75f, height = 10.dp, alpha = 0.5f)
                 }
                 Spacer(Modifier.width(10.dp))
-                SkeletonBar(width = 34.dp, height = 10.dp, alpha = 0.5f)
+                SkeletonBar(width = 0.22f, height = 10.dp, alpha = 0.5f)
             }
         }
     }

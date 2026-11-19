@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mja_bg">#090A0C</color>
+    <color name="mja_bg2">#101216</color>
+    <color name="mja_silver">#D7DBE2</color>
+    <color name="mja_splash">#000000</color>
+    <string name="app_name">MJA Offline Messenger</string>
+    <string name="app_name_fa">MJA</string>
+    <string name="tagline">Chat Without Internet.</string>
+    <string name="tagline_fa">Private. Local. Secure.</string>
+    <style name="Theme.MJA" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/mja_bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

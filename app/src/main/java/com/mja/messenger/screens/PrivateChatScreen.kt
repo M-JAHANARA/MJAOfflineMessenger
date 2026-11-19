@@ -65,7 +65,7 @@ fun PrivateChatScreen(
     val me = Repo.currentUser()
 
     val peerId = chat?.memberIds?.firstOrNull { it != me.id }
-        ?: Repo.users.firstOrNull { it.username == chat?.username }?.id
+        ?: Repo.users.value.firstOrNull { it.username == chat?.username }?.id
         ?: "u_ali"
     val peer = Repo.user(peerId)
 

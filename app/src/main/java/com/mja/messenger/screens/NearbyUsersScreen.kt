@@ -18,9 +18,6 @@ import com.mja.messenger.ui.components.*
 import com.mja.messenger.ui.theme.*
 import kotlinx.coroutines.delay
 
-/**
- * 08 — Nearby Users (real local discovery)
- */
 @Composable
 fun NearbyUsersScreen(
     onBack: () -> Unit,
@@ -33,15 +30,15 @@ fun NearbyUsersScreen(
     LaunchedEffect(refreshKey) { delay(700); loading = false }
 
     val peers = LocalNet.peers
-    val users = Repo.users
     val status = LocalNet.status
+    val users by Repo.users.collectAsState()
     val me = Repo.currentUser()
 
     // Merge real peers with demo online users not in peers
     val merged = remember(peers, users) {
-        val real = peers
+        val real = peers.value
         val known = users.filter { it.online && !it.isSelf && !real.any { p -> p.id == it.id || p.username == it.username } }
-        val extra = known.map { u -> com.mja.messenger.net.Peer(u.id, u.name, u.username, u.ip ?: "192.168.43.1", System.currentTimeMillis()) }
+        val extra = known.map { u -> Peer(u.id, u.name, u.username, u.ip.ifBlank { "192.168.43.1" }, System.currentTimeMillis()) }
         real + extra
     }
 
@@ -50,7 +47,7 @@ fun NearbyUsersScreen(
             ScreenHeader(title = "افراد نزدیک", onBack = onBack)
 
             Column(Modifier.padding(horizontal = 20.dp)) {
-                NetworkStatusCard(status = status)
+                NetworkStatusCard(status = status.value)
                 Spacer(Modifier.height(8.dp))
                 Text(
                     "${merged.size} کاربر شناسایی‌شده",

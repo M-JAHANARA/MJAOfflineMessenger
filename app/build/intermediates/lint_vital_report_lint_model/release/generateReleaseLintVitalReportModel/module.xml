@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app"
+    name=":app"
+    type="APP"
+    maven="MJAOfflineMessenger:app:unspecified"
+    agpVersion="9.4.1"
+    buildFolder="build"
+    bootClassPath="H:\Sdk\platforms\android-37\android.jar;H:\Sdk\build-tools\36.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-37.0"
+    neverShrinking="true"
+    highlightGradualR8Api="false">
+  <lintOptions
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

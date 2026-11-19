@@ -164,7 +164,7 @@ fun MessageBubble(
     onOpenMedia: (() -> Unit)? = null,
 ) {
     val bg = if (isSelf) MjaBubbleOut else MjaBubbleIn
-    val alignment = if (isSelf) Alignment.CenterStart else Alignment.CenterEnd
+    val alignment = if (isSelf) Alignment.Start else Alignment.End
 
     Column(
         modifier = modifier.fillMaxWidth().padding(vertical = 3.dp, horizontal = 12.dp),

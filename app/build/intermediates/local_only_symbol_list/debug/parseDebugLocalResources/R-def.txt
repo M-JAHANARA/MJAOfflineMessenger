@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color mja_bg
+color mja_bg2
+color mja_silver
+color mja_splash
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_launcher_solid
+drawable ic_mja_logo
+font vazirmatn_bold
+font vazirmatn_medium
+font vazirmatn_regular
+font vazirmatn_semibold
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string app_name_fa
+string tagline
+string tagline_fa
+style Theme.MJA
+xml network_security_config

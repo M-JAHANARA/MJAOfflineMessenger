@@ -5,6 +5,7 @@ import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.automirrored.filled.ArrowForward
 import androidx.compose.material.icons.automirrored.filled.InsertDriveFile
 import androidx.compose.material.icons.automirrored.outlined.List
+import androidx.compose.material.icons.automirrored.filled.Send
 import androidx.compose.material.icons.automirrored.outlined.Send
 import androidx.compose.material.icons.filled.Add
 import androidx.compose.material.icons.filled.AddCircle
@@ -186,6 +187,8 @@ val Icons_DarkMode: ImageVector get() = Icons.Default.DarkMode
 val Icons_Backup: ImageVector get() = Icons.Default.Save
 val Icons_Security: ImageVector get() = Icons.Default.Shield
 val Icons_Key: ImageVector get() = Icons.Default.Lock
+val Icons_Shield: ImageVector get() = Icons.Default.Shield
+val Icons_Lock: ImageVector get() = Icons.Default.Lock
 val Icons_Storage: ImageVector get() = Icons.Default.Storage
 val Icons_TextSize: ImageVector get() = Icons.Default.Title
 val Icons_Animations: ImageVector get() = Icons.Default.Bolt
@@ -233,3 +236,5 @@ val Icons_Server: ImageVector get() = Icons.Default.Terminal
 val Icons_TextSnippet: ImageVector get() = Icons.Default.Description
 val Icons_RemoveUser: ImageVector get() = Icons.Default.Person
 val Icons_Bell: ImageVector get() = Icons.Default.Notifications
+val Icons_Visibility: ImageVector get() = Icons.Default.Visibility
+val Icons_VisibilityOff: ImageVector get() = Icons.Default.VisibilityOff

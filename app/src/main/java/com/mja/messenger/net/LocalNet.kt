@@ -116,6 +116,9 @@ object LocalNet {
 
     /* ------------------------------ status ------------------------------ */
 
+    private fun intToIp(ipInt: Int): String =
+        "${ipInt and 0xFF}.${ipInt shr 8 and 0xFF}.${ipInt shr 16 and 0xFF}.${ipInt shr 24 and 0xFF}"
+
     fun refreshStatus() {
         val ctx = appContext ?: return
         val wm = ctx.getSystemService(Context.WIFI_SERVICE) as? WifiManager ?: return
@@ -161,8 +164,8 @@ object LocalNet {
 
     fun primaryIp(): String = runCatching {
         NetworkInterface.getNetworkInterfaces()?.toList()?.firstOrNull { nfi ->
-            nfi.isUp && !nfi.isLoopback && nfi.inetAddresses.any { it is Inet4Address && !it.isLoopbackAddress }
-        }?.inetAddresses?.firstOrNull { it is Inet4Address && !it.isLoopbackAddress }?.hostAddress ?: "0.0.0.0"
+            nfi.isUp && !nfi.isLoopback && nfi.inetAddresses.toList().any { it is Inet4Address && !it.isLoopbackAddress }
+        }?.inetAddresses?.toList()?.firstOrNull { it is Inet4Address && !it.isLoopbackAddress }?.hostAddress ?: "0.0.0.0"
     }.getOrDefault("0.0.0.0")
 
     /* ---------------------------- discovery ----------------------------- */
@@ -339,7 +342,7 @@ object LocalNet {
     fun stopHotspot() {
         val r = reservation ?: return
         reservation = null
-        runCatching { r.stop() }
+        runCatching { r.close() }
         refreshStatus()
     }
 

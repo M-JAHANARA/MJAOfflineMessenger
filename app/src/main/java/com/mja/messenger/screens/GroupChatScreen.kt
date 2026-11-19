@@ -185,7 +185,9 @@ fun GroupChatScreen(
                                     message = m,
                                     isSelf = m.senderId == me.id,
                                     senderName = sender?.name,
-                                    senderAvatar = sender?.name,
+                                    senderAvatar = if (sender != null) {
+                                        { Avatar(sender.name, size = 30.dp) }
+                                    } else null,
                                     onClick = { selected = m },
                                     onOpenMedia = { onOpenMedia() },
                                 )

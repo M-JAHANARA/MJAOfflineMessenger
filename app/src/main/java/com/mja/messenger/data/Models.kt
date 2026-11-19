@@ -66,7 +66,9 @@ data class Chat(
     val admins: List<String> = emptyList(),
     val typing: Boolean = false,
     val isTypingGroup: String = "",
-)
+) {
+    val memberCount: Int get() = memberIds.size
+}
 
 @Immutable
 data class NotificationItem(

@@ -1,0 +1,540 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:2:1-62:12
+INJECTED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:2:1-62:12
+MERGED from [androidx.media3:media3-extractor:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\2b0d8e3ce2253f3a9e691e1282dd218d\transformed\media3-extractor-1.4.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-container:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d0fc66b9e6c9ef153f70250a76ad9d32\transformed\media3-container-1.4.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-datasource:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\ddfea43ca6115d040d43e68aa07f0ee6\transformed\media3-datasource-1.4.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-decoder:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5a5d8c267270a018eb5d6ed5c9f3d0da\transformed\media3-decoder-1.4.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-database:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e5a83fc8267a62e4fb2cf0bf35cda061\transformed\media3-database-1.4.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-common:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\562509c9f34521f0d7aab6b8978d9fa9\transformed\media3-common-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\c7d59b64e948e1451122a31c470e97dc\transformed\media3-exoplayer-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.7.5] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\9a7e43fa5b53770448ce4b118d6260ff\transformed\navigation-common-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\3382110840a4a08be7d0dc2b9e102b08\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\855eb98def1d0a761b39e976f61e94c5\transformed\navigation-common-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d2e727200a620894dcad406c27350e6e\transformed\navigation-runtime-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.5] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\0dd04580878dd2fcee2662392f5fccd6\transformed\navigation-compose-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose:2.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\75a68cbc5648971b6b8268f09e26d939\transformed\coil-compose-2.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\cc810b9f22546426f3832d59f09a5e4d\transformed\coil-compose-base-2.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil:2.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5ebccdf9dffe32066dd7938935f1c17e\transformed\coil-2.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\fae210cc7dae45a41a091c4656933d95\transformed\coil-base-2.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\7b80e440d6bb56ec2140bee6afc8a560\transformed\animation-core\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\dfd08a363cb9fa157278e3a58afe1245\transformed\material-ripple\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\55a5cb6b540f9f39d068df4ace9958b7\transformed\animation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5cb4d245e3e3e5c0a0880836686b8a5d\transformed\foundation-layout\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\73337fb395d25d099dd28d95c2383cc2\transformed\foundation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\54ecb6521349fae77e5feca1b853598c\transformed\ui-tooling-data\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a11df5c1642bc84ab6f3008bcb1cdbdc\transformed\ui-unit\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\c6fec6f15685919ece255fda7d0ac4de\transformed\ui-util\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\83e4eba56cd9c85b650162b27894e9e4\transformed\ui-geometry\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\77a916173f3c3e327d92161e653bb0cb\transformed\ui-tooling-preview\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\1eae0afbc82e32c6850d8c3017cad20d\transformed\ui-graphics\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\6268cf042f0e210b0955aea6e36b8f1a\transformed\ui-text\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a92fcb0a49fd970999e9c9b69ea4a08f\transformed\emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\6bc1c81b105717ae105a7ca4b4323b0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\25498c1435b66e8e5b92e3a18d0f2d35\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\6ffbdaa64648b278343de6985c653e47\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\8369222c876843d9574aa94e126d6d42\transformed\runtime-retain\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\f218bff45732c2ac5fccfb222767a8e8\transformed\runtime-annotation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\c8f81ba5215d6777b644fab760621bc4\transformed\runtime\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\796c9fce21b02e0691a979f18c4dc493\transformed\runtime-saveable\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.2] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\93d0347a7830b3f3466bc43018e3a26f\transformed\savedstate-ktx-1.3.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.2] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\87a28c5a8295b69b636d103982e62149\transformed\savedstate-compose\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.2] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e74b4184d91384071847aed2e5148535\transformed\savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\b0a59c65280491ed98e57359cfaa10b8\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\735a047ccd2096679e56813de1038a46\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\2f17519c0fa14c693152f5cf8d83add3\transformed\lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\b0d6c9d9624ad264e9724f6bdd2cc26e\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\88a41315c9cc830fcca19c0f20abfa7f\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\fca2490eb9d4a9513ffbebb1b1b77592\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\99f5be227f3eb5f268fc301552c09cef\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\882998d4065e2076d9022a0a3908e831\transformed\material-icons-extended-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\df6fe8b036cd7554a9026a9bcd0ea448\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\be2d4e44fc4eb3c928f39c6446d60ebf\transformed\ui\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e7baa5907208b07a5fe4b3efc7a69bda\transformed\ui-test-manifest-1.12.1\AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\8aa7fb837648d6974423edf6e8c00680\transformed\ui-tooling\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material3:material3-android:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\2c581477592dee5327e4729032197151\transformed\material3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\3530b6d0f796feaa2935082eb585ce09\transformed\activity-compose-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\23486c3e5caad39db4d2878abe32f66c\transformed\activity-ktx-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\be634967c7dd06bbf8662a5498b87969\transformed\activity-1.8.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\4defcf8745b10dc6c78bc00ac6adaaff\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-core-android:1.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\cb7ebbdece285bbb7bcaab161fa311a8\transformed\window-core\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5704b11b9c0abfef30527834ac947759\transformed\window-1.5.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\24a81b215790fa7b68b39a1ac289f653\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\9dd042e7a7e34a06b6e4d84add2801da\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\c48f29bfe71775df6835d0035aedfe56\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\80f2b5a094dfd6a33c1b123adc299d38\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1cfc3375830ee0f7586934955e4d66c\transformed\core-1.16.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\0eb70b17fdc6ab205a244ccf8203c14c\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\57408bd9a58e872d4af411a102fd2c48\transformed\core-ktx-1.16.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\b50dd1efff1ef4c01bddaee147d85526\transformed\datastore-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\824a0162f076c9229724b980690053a6\transformed\datastore-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e126b40689c5c4d0c0e1770b1d94ed48\transformed\datastore-preferences-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1dc053481934449fcfaf59b4c466b7c\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a529cf4ebbcdea167ee497461b51ec7d\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\07e5eca623cf67e40910ed0734985e63\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\41a3b2448ba74414321b53f6785b7b7f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\91664a64329c6b75f5a3885f7bade2ef\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\b256bc93f83eed7c4278084fa8cb1035\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\94155673b5106a067d9bdb14e4d63562\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\2f2192ad82a639aaf51727d58f627f1b\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [androidx.media3:media3-common:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\562509c9f34521f0d7aab6b8978d9fa9\transformed\media3-common-1.4.1\AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-common:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\562509c9f34521f0d7aab6b8978d9fa9\transformed\media3-common-1.4.1\AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\c7d59b64e948e1451122a31c470e97dc\transformed\media3-exoplayer-1.4.1\AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\c7d59b64e948e1451122a31c470e97dc\transformed\media3-exoplayer-1.4.1\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:11:5-86
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:11:22-83
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:12:5-13:38
+	android:maxSdkVersion
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:13:9-35
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.NEARBY_WIFI_DEVICES
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:14:5-16:32
+	android:usesPermissionFlags
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:15:9-55
+	tools:targetApi
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:16:9-29
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:14:22-75
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:19:22-68
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:20:5-65
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:20:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:21:22-63
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:22:5-77
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:22:22-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:25:5-26:38
+	android:maxSdkVersion
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:26:9-35
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:25:22-77
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:27:22-73
+uses-permission#android.permission.READ_MEDIA_VIDEO
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:28:5-75
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:28:22-72
+uses-permission#android.permission.READ_MEDIA_AUDIO
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:29:5-75
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:29:22-72
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:32:5-77
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:32:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_DATA_SYNC
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:33:5-87
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:33:22-84
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:34:5-68
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:34:22-65
+uses-feature#android.hardware.wifi
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:36:5-83
+	android:required
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:36:56-80
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:36:19-55
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:37:5-85
+	android:required
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:37:58-82
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:37:19-57
+uses-feature#android.hardware.microphone
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:38:5-89
+	android:required
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:38:62-86
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:38:19-61
+application
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:40:5-61:19
+INJECTED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:40:5-61:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a92fcb0a49fd970999e9c9b69ea4a08f\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a92fcb0a49fd970999e9c9b69ea4a08f\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\6bc1c81b105717ae105a7ca4b4323b0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\6bc1c81b105717ae105a7ca4b4323b0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e7baa5907208b07a5fe4b3efc7a69bda\transformed\ui-test-manifest-1.12.1\AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e7baa5907208b07a5fe4b3efc7a69bda\transformed\ui-test-manifest-1.12.1\AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\8aa7fb837648d6974423edf6e8c00680\transformed\ui-tooling\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\8aa7fb837648d6974423edf6e8c00680\transformed\ui-tooling\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.window:window:1.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5704b11b9c0abfef30527834ac947759\transformed\window-1.5.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5704b11b9c0abfef30527834ac947759\transformed\window-1.5.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.core:core:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1cfc3375830ee0f7586934955e4d66c\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1cfc3375830ee0f7586934955e4d66c\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\91664a64329c6b75f5a3885f7bade2ef\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\91664a64329c6b75f5a3885f7bade2ef\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\94155673b5106a067d9bdb14e4d63562\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\94155673b5106a067d9bdb14e4d63562\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1cfc3375830ee0f7586934955e4d66c\transformed\core-1.16.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:47:9-35
+	android:label
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:45:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:48:9-43
+	android:roundIcon
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:44:9-54
+	android:icon
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:43:9-43
+	android:allowBackup
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:42:9-35
+	android:theme
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:49:9-41
+	android:networkSecurityConfig
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:46:9-69
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:41:9-31
+activity#com.mja.messenger.MainActivity
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:51:9-60:20
+	android:windowSoftInputMode
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:54:13-55
+	android:exported
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:53:13-36
+	android:theme
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:55:13-45
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:52:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:56:13-59:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:57:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml:58:27-74
+uses-sdk
+INJECTED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml
+MERGED from [androidx.media3:media3-extractor:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\2b0d8e3ce2253f3a9e691e1282dd218d\transformed\media3-extractor-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-extractor:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\2b0d8e3ce2253f3a9e691e1282dd218d\transformed\media3-extractor-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d0fc66b9e6c9ef153f70250a76ad9d32\transformed\media3-container-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d0fc66b9e6c9ef153f70250a76ad9d32\transformed\media3-container-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\ddfea43ca6115d040d43e68aa07f0ee6\transformed\media3-datasource-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\ddfea43ca6115d040d43e68aa07f0ee6\transformed\media3-datasource-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5a5d8c267270a018eb5d6ed5c9f3d0da\transformed\media3-decoder-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5a5d8c267270a018eb5d6ed5c9f3d0da\transformed\media3-decoder-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e5a83fc8267a62e4fb2cf0bf35cda061\transformed\media3-database-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e5a83fc8267a62e4fb2cf0bf35cda061\transformed\media3-database-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\562509c9f34521f0d7aab6b8978d9fa9\transformed\media3-common-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\562509c9f34521f0d7aab6b8978d9fa9\transformed\media3-common-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\c7d59b64e948e1451122a31c470e97dc\transformed\media3-exoplayer-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\c7d59b64e948e1451122a31c470e97dc\transformed\media3-exoplayer-1.4.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.5] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\9a7e43fa5b53770448ce4b118d6260ff\transformed\navigation-common-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.5] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\9a7e43fa5b53770448ce4b118d6260ff\transformed\navigation-common-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\3382110840a4a08be7d0dc2b9e102b08\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\3382110840a4a08be7d0dc2b9e102b08\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\855eb98def1d0a761b39e976f61e94c5\transformed\navigation-common-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\855eb98def1d0a761b39e976f61e94c5\transformed\navigation-common-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d2e727200a620894dcad406c27350e6e\transformed\navigation-runtime-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d2e727200a620894dcad406c27350e6e\transformed\navigation-runtime-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.5] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\0dd04580878dd2fcee2662392f5fccd6\transformed\navigation-compose-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.5] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\0dd04580878dd2fcee2662392f5fccd6\transformed\navigation-compose-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\75a68cbc5648971b6b8268f09e26d939\transformed\coil-compose-2.5.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\75a68cbc5648971b6b8268f09e26d939\transformed\coil-compose-2.5.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\cc810b9f22546426f3832d59f09a5e4d\transformed\coil-compose-base-2.5.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\cc810b9f22546426f3832d59f09a5e4d\transformed\coil-compose-base-2.5.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5ebccdf9dffe32066dd7938935f1c17e\transformed\coil-2.5.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5ebccdf9dffe32066dd7938935f1c17e\transformed\coil-2.5.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\fae210cc7dae45a41a091c4656933d95\transformed\coil-base-2.5.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\fae210cc7dae45a41a091c4656933d95\transformed\coil-base-2.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\7b80e440d6bb56ec2140bee6afc8a560\transformed\animation-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\7b80e440d6bb56ec2140bee6afc8a560\transformed\animation-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\dfd08a363cb9fa157278e3a58afe1245\transformed\material-ripple\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\dfd08a363cb9fa157278e3a58afe1245\transformed\material-ripple\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\55a5cb6b540f9f39d068df4ace9958b7\transformed\animation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\55a5cb6b540f9f39d068df4ace9958b7\transformed\animation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5cb4d245e3e3e5c0a0880836686b8a5d\transformed\foundation-layout\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5cb4d245e3e3e5c0a0880836686b8a5d\transformed\foundation-layout\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\73337fb395d25d099dd28d95c2383cc2\transformed\foundation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\73337fb395d25d099dd28d95c2383cc2\transformed\foundation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\54ecb6521349fae77e5feca1b853598c\transformed\ui-tooling-data\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\54ecb6521349fae77e5feca1b853598c\transformed\ui-tooling-data\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a11df5c1642bc84ab6f3008bcb1cdbdc\transformed\ui-unit\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a11df5c1642bc84ab6f3008bcb1cdbdc\transformed\ui-unit\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\c6fec6f15685919ece255fda7d0ac4de\transformed\ui-util\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\c6fec6f15685919ece255fda7d0ac4de\transformed\ui-util\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\83e4eba56cd9c85b650162b27894e9e4\transformed\ui-geometry\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\83e4eba56cd9c85b650162b27894e9e4\transformed\ui-geometry\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\77a916173f3c3e327d92161e653bb0cb\transformed\ui-tooling-preview\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\77a916173f3c3e327d92161e653bb0cb\transformed\ui-tooling-preview\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\1eae0afbc82e32c6850d8c3017cad20d\transformed\ui-graphics\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\1eae0afbc82e32c6850d8c3017cad20d\transformed\ui-graphics\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\6268cf042f0e210b0955aea6e36b8f1a\transformed\ui-text\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\6268cf042f0e210b0955aea6e36b8f1a\transformed\ui-text\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a92fcb0a49fd970999e9c9b69ea4a08f\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a92fcb0a49fd970999e9c9b69ea4a08f\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\6bc1c81b105717ae105a7ca4b4323b0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\6bc1c81b105717ae105a7ca4b4323b0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\25498c1435b66e8e5b92e3a18d0f2d35\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\25498c1435b66e8e5b92e3a18d0f2d35\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\6ffbdaa64648b278343de6985c653e47\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\6ffbdaa64648b278343de6985c653e47\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\8369222c876843d9574aa94e126d6d42\transformed\runtime-retain\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\8369222c876843d9574aa94e126d6d42\transformed\runtime-retain\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\f218bff45732c2ac5fccfb222767a8e8\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\f218bff45732c2ac5fccfb222767a8e8\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\c8f81ba5215d6777b644fab760621bc4\transformed\runtime\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\c8f81ba5215d6777b644fab760621bc4\transformed\runtime\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\796c9fce21b02e0691a979f18c4dc493\transformed\runtime-saveable\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\796c9fce21b02e0691a979f18c4dc493\transformed\runtime-saveable\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.2] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\93d0347a7830b3f3466bc43018e3a26f\transformed\savedstate-ktx-1.3.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.2] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\93d0347a7830b3f3466bc43018e3a26f\transformed\savedstate-ktx-1.3.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.2] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\87a28c5a8295b69b636d103982e62149\transformed\savedstate-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.2] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\87a28c5a8295b69b636d103982e62149\transformed\savedstate-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.2] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e74b4184d91384071847aed2e5148535\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.2] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e74b4184d91384071847aed2e5148535\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\b0a59c65280491ed98e57359cfaa10b8\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\b0a59c65280491ed98e57359cfaa10b8\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\735a047ccd2096679e56813de1038a46\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\735a047ccd2096679e56813de1038a46\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\2f17519c0fa14c693152f5cf8d83add3\transformed\lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\2f17519c0fa14c693152f5cf8d83add3\transformed\lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\b0d6c9d9624ad264e9724f6bdd2cc26e\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\b0d6c9d9624ad264e9724f6bdd2cc26e\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\88a41315c9cc830fcca19c0f20abfa7f\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\88a41315c9cc830fcca19c0f20abfa7f\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\fca2490eb9d4a9513ffbebb1b1b77592\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\fca2490eb9d4a9513ffbebb1b1b77592\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\99f5be227f3eb5f268fc301552c09cef\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\99f5be227f3eb5f268fc301552c09cef\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\882998d4065e2076d9022a0a3908e831\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.8] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\882998d4065e2076d9022a0a3908e831\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\df6fe8b036cd7554a9026a9bcd0ea448\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\df6fe8b036cd7554a9026a9bcd0ea448\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\be2d4e44fc4eb3c928f39c6446d60ebf\transformed\ui\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\be2d4e44fc4eb3c928f39c6446d60ebf\transformed\ui\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e7baa5907208b07a5fe4b3efc7a69bda\transformed\ui-test-manifest-1.12.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e7baa5907208b07a5fe4b3efc7a69bda\transformed\ui-test-manifest-1.12.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\8aa7fb837648d6974423edf6e8c00680\transformed\ui-tooling\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\8aa7fb837648d6974423edf6e8c00680\transformed\ui-tooling\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\2c581477592dee5327e4729032197151\transformed\material3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\2c581477592dee5327e4729032197151\transformed\material3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\3530b6d0f796feaa2935082eb585ce09\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\3530b6d0f796feaa2935082eb585ce09\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\23486c3e5caad39db4d2878abe32f66c\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\23486c3e5caad39db4d2878abe32f66c\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\be634967c7dd06bbf8662a5498b87969\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\be634967c7dd06bbf8662a5498b87969\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\4defcf8745b10dc6c78bc00ac6adaaff\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\4defcf8745b10dc6c78bc00ac6adaaff\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-core-android:1.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\cb7ebbdece285bbb7bcaab161fa311a8\transformed\window-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-core-android:1.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\cb7ebbdece285bbb7bcaab161fa311a8\transformed\window-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5704b11b9c0abfef30527834ac947759\transformed\window-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5704b11b9c0abfef30527834ac947759\transformed\window-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\24a81b215790fa7b68b39a1ac289f653\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\24a81b215790fa7b68b39a1ac289f653\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\9dd042e7a7e34a06b6e4d84add2801da\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\9dd042e7a7e34a06b6e4d84add2801da\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\c48f29bfe71775df6835d0035aedfe56\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\c48f29bfe71775df6835d0035aedfe56\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\80f2b5a094dfd6a33c1b123adc299d38\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\80f2b5a094dfd6a33c1b123adc299d38\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1cfc3375830ee0f7586934955e4d66c\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1cfc3375830ee0f7586934955e4d66c\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\0eb70b17fdc6ab205a244ccf8203c14c\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\0eb70b17fdc6ab205a244ccf8203c14c\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\57408bd9a58e872d4af411a102fd2c48\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\57408bd9a58e872d4af411a102fd2c48\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\b50dd1efff1ef4c01bddaee147d85526\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\b50dd1efff1ef4c01bddaee147d85526\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\824a0162f076c9229724b980690053a6\transformed\datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\824a0162f076c9229724b980690053a6\transformed\datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e126b40689c5c4d0c0e1770b1d94ed48\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e126b40689c5c4d0c0e1770b1d94ed48\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1dc053481934449fcfaf59b4c466b7c\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1dc053481934449fcfaf59b4c466b7c\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a529cf4ebbcdea167ee497461b51ec7d\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a529cf4ebbcdea167ee497461b51ec7d\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\07e5eca623cf67e40910ed0734985e63\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\07e5eca623cf67e40910ed0734985e63\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\41a3b2448ba74414321b53f6785b7b7f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\41a3b2448ba74414321b53f6785b7b7f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\91664a64329c6b75f5a3885f7bade2ef\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\91664a64329c6b75f5a3885f7bade2ef\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\b256bc93f83eed7c4278084fa8cb1035\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\b256bc93f83eed7c4278084fa8cb1035\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\94155673b5106a067d9bdb14e4d63562\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\94155673b5106a067d9bdb14e4d63562\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\2f2192ad82a639aaf51727d58f627f1b\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\2f2192ad82a639aaf51727d58f627f1b\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Persia system\Desktop\massenger\MJAOfflineMessenger\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a92fcb0a49fd970999e9c9b69ea4a08f\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\6bc1c81b105717ae105a7ca4b4323b0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\6bc1c81b105717ae105a7ca4b4323b0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\91664a64329c6b75f5a3885f7bade2ef\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\91664a64329c6b75f5a3885f7bade2ef\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a92fcb0a49fd970999e9c9b69ea4a08f\transformed\emoji2-1.4.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a92fcb0a49fd970999e9c9b69ea4a08f\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a92fcb0a49fd970999e9c9b69ea4a08f\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a92fcb0a49fd970999e9c9b69ea4a08f\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a92fcb0a49fd970999e9c9b69ea4a08f\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a92fcb0a49fd970999e9c9b69ea4a08f\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\a92fcb0a49fd970999e9c9b69ea4a08f\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\6bc1c81b105717ae105a7ca4b4323b0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\6bc1c81b105717ae105a7ca4b4323b0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\6bc1c81b105717ae105a7ca4b4323b0a\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:30:17-78
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e7baa5907208b07a5fe4b3efc7a69bda\transformed\ui-test-manifest-1.12.1\AndroidManifest.xml:23:9-26:79
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e7baa5907208b07a5fe4b3efc7a69bda\transformed\ui-test-manifest-1.12.1\AndroidManifest.xml:25:13-36
+	android:theme
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e7baa5907208b07a5fe4b3efc7a69bda\transformed\ui-test-manifest-1.12.1\AndroidManifest.xml:26:13-76
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e7baa5907208b07a5fe4b3efc7a69bda\transformed\ui-test-manifest-1.12.1\AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\8aa7fb837648d6974423edf6e8c00680\transformed\ui-tooling\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\8aa7fb837648d6974423edf6e8c00680\transformed\ui-tooling\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.12.1] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\8aa7fb837648d6974423edf6e8c00680\transformed\ui-tooling\AndroidManifest.xml:24:13-71
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5704b11b9c0abfef30527834ac947759\transformed\window-1.5.0\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5704b11b9c0abfef30527834ac947759\transformed\window-1.5.0\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5704b11b9c0abfef30527834ac947759\transformed\window-1.5.0\AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5704b11b9c0abfef30527834ac947759\transformed\window-1.5.0\AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5704b11b9c0abfef30527834ac947759\transformed\window-1.5.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.5.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\5704b11b9c0abfef30527834ac947759\transformed\window-1.5.0\AndroidManifest.xml:27:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1cfc3375830ee0f7586934955e4d66c\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1cfc3375830ee0f7586934955e4d66c\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1cfc3375830ee0f7586934955e4d66c\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+permission#com.mja.messenger.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1cfc3375830ee0f7586934955e4d66c\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1cfc3375830ee0f7586934955e4d66c\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1cfc3375830ee0f7586934955e4d66c\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1cfc3375830ee0f7586934955e4d66c\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1cfc3375830ee0f7586934955e4d66c\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+uses-permission#com.mja.messenger.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1cfc3375830ee0f7586934955e4d66c\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\e1cfc3375830ee0f7586934955e4d66c\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Persia system\.gradle\caches\9.6.0\transforms\d71892c1a0b4e6fc037384871d2bf835\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

@@ -161,7 +161,7 @@ fun NotificationsScreen(
                                     )
                                     Spacer(Modifier.height(5.dp))
                                     Text(
-                                        timeLabel(n.timestamp),
+                                        n.time,
                                         style = MaterialTheme.typography.labelSmall,
                                         color = MjaTextDisabled,
                                     )
